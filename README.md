@@ -14,3 +14,4 @@ fit_spec.py -- this code reads a spectrum in ascii format and fits a sum
 plot_spec.py -- this code simply plots the spectrum with the fitted model
 
 mod_tools.py -- a collection of functions that are used to fit the model.
+
